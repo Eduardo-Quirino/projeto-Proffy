@@ -2,7 +2,7 @@
 .input-block label,
 .textarea-block label {
     font-size: 1.4rem;
-    color: var( --color-text-complement);
+    color: var(--color-text-complement);
 }
 
 .input-block input,
@@ -38,5 +38,6 @@
     background: var(--color-primary-light);
     position: absolute;
     left: 1.6rem;
-    bottom: 0;
+    /*right: 1.6rem;*/
+    bottom: 0px;
 }
