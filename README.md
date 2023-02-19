@@ -7,3 +7,5 @@ Concluido parte javascript na página addFields.js
  Recuperação das paginas header/page-give-classes.css,give-classes.html
 
 # projeto-Proffy
+
+<img src="https://eduardo-quirino.github.io/projeto-Proffy/images/landing.svg" alt="Plataforma de Estudos" style="zoom:150%;" />
